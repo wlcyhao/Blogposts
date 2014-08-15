@@ -35,7 +35,7 @@ tags: [Hexo,Blog]
 
 ##本地查看
 
-现在我们已经搭建起本地的hexo博客了，执行以下命令(在D:\hexo)，然后到浏览器输入localhost:4000看看。
+现在我们已经搭建起本地的hexo博客了，执行以下命令(在D:\hexo)，然后到浏览器输入:[地址](localhost:4000)看看。
 
 	hexo generate								
 	hexo server
