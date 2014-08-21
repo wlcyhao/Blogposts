@@ -1,6 +1,6 @@
 title: 交换机&路由器命令小全（带中文注释） 
 date: 2014-08-09 14:45:22
-categories: Swtitch&Router
+categories: 交换路由
 tags: [交换机,路由器]
 ---
 ##1. 交换机支持的命令：

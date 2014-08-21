@@ -1,6 +1,6 @@
 title: Cisco交换机接口模式精解 
 date: 2014-08-09 14:56:54
-categories: Swtitch&Router
+categories: 交换路由
 tags: [cisco,交换机]
 ---
 cisco网络中，交换机在局域网中最终稳定状态的接口类型主要有四种：access/ trunk/ multi/ dot1q-tunnel。  
