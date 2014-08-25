@@ -6,4 +6,4 @@ tags: 海明码
 
 在网上看到的一个海明码的计算方法，感觉很不错的。。。
 <!--more-->
-![](http://i.imgur.com/Py6s9Rk.jpg)
+![hamm](/img/haimingma.jpg)
