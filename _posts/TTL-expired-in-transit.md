@@ -3,7 +3,7 @@ date: 2014-08-27 19:15:20
 categories: 交换路由
 tags: [ping，TTL]
 ---
-当你在PING一台机器IP的时候出现如果显示,你可的注意了
+当你在PING一台机器IP的时候出现如下显示,你可得注意了
 <!--more-->
 
 	C:\Documents and Settings\Administrator>ping *.*.4.11
